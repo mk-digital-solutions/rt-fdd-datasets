@@ -1,0 +1,61 @@
+{
+  "title": "RT-FDD Datasets: Pick-and-Place and Electric Furnace Benchmarks for Real-Time Fault Detection and Diagnosis",
+  "description": "<p>Four benchmark datasets for Real-Time Fault Detection and Diagnosis (RT-FDD) research on discrete manufacturing machines. Each machine (Pick-and-Place and Electric Furnace) is provided in two versions: an Original Dataset (OD) with deterministic fault conditions and an Aleatory Simulated Dataset (ASD) with bounded variability emulating realistic industrial uncertainty. Data was logged from a closed-loop real-time simulation running on a SoftPLC stack (Modbus TCP + OPC UA), organised per operating cycle, preserving event timing, execution order, and continuous sensor behaviour.</p><p>All four CSVs use Unix epoch milliseconds (UTC) in the <code>timestamp</code> column. See the README for the column reference and the accompanying article for full methodology.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Dataset",
+    "Discrete-Event Systems",
+    "Fault Detection",
+    "Fault Diagnosis",
+    "Intelligent Manufacturing Systems",
+    "Machine Learning",
+    "Smart Manufacturing",
+    "Real-Time Fault Detection and Diagnosis",
+    "RT-FDD",
+    "Pick-and-Place",
+    "Industrial Furnace",
+    "Benchmark"
+  ],
+  "creators": [
+    {
+      "name": "Fonseca, Hugo de Albuquerque",
+      "orcid": "0000-0003-0026-9141",
+      "affiliation": "University of Pernambuco, Recife, Brazil; Mekatronik Engenharia Ltda, Recife, Brazil"
+    },
+    {
+      "name": "Andrade de Barros Santos, Emmanuel",
+      "orcid": "0000-0002-1786-0934",
+      "affiliation": "University of Pernambuco, Recife, Brazil"
+    },
+    {
+      "name": "Vilela Cintra, Pedro Estevão",
+      "orcid": "0009-0008-4447-9048",
+      "affiliation": "University of Pernambuco, Recife, Brazil; Mekatronik Engenharia Ltda, Recife, Brazil"
+    },
+    {
+      "name": "Mohamed, Mohamed A.",
+      "orcid": "0000-0001-8700-0270",
+      "affiliation": "Minia University, Egypt"
+    },
+    {
+      "name": "Annuk, Andres",
+      "orcid": "0000-0001-5464-0415",
+      "affiliation": "Estonian University of Life Sciences, Estonia"
+    },
+    {
+      "name": "Leite, Dênis",
+      "orcid": "0000-0002-0392-3279",
+      "affiliation": "University of Pernambuco, Recife, Brazil; Mekatronik Engenharia Ltda, Recife, Brazil"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "TODO-paper-DOI-once-published",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ],
+  "communities": []
+}
