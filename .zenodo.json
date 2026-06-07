@@ -60,12 +60,5 @@
       "affiliation": "University of Pernambuco, Recife, Brazil; Mekatronik Engenharia Ltda, Recife, Brazil"
     }
   ],
-  "related_identifiers": [
-    {
-      "identifier": "TODO-paper-DOI-once-published",
-      "relation": "isSupplementTo",
-      "resource_type": "publication-article"
-    }
-  ],
   "communities": []
 }
