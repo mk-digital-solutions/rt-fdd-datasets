@@ -1,5 +1,8 @@
 # RT-FDD Datasets — Pick-and-Place and Electric Furnace
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20576461.svg)](https://doi.org/10.5281/zenodo.20576461)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+
 Four benchmark datasets for Real-Time Fault Detection and Diagnosis (RT-FDD)
 research on discrete manufacturing machines. Each machine (Pick-and-Place
 and Electric Furnace) is provided in two versions:
